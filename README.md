@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @myjung
 - 👀 I’m interested in RPA, Python, Rust, C, Arduino, Hardware, Deeplearning
-- 🌱 I’m currently learning WEB
+- 🌱 I’m currently working on Game company
 - 📫 hexagramxix@gmail.com
